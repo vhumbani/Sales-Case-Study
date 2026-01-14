@@ -1,7 +1,7 @@
 # Sales-Analysis
 This repository contains a detailed analysis that  indicates the daily trading information for a large retail store. The goal is to understand revenue trends by time and by store location.
 
-# Summary
+# Summary:
 *  Date = The day on which the sales occurred 
 * Sales = Total Rand value of the sales that occurred 
 * Cost of Sales = Total Rand value of the cost of sales that occurred 
@@ -13,7 +13,7 @@ This repository contains a detailed analysis that  indicates the daily trading i
 *  Gross profit--Gross profit is calculated
 *  Average unit price---Average unit is calcualted
 
-#  Daily Quantity sold
+#  Daily Quantity sold:
 * Saturday 22.62%
 * Friday 19.82%
 * Monday 12.49
@@ -29,10 +29,10 @@ This repository contains a detailed analysis that  indicates the daily trading i
 * Intoduce Cash back system .
 
 # Project Files
-Raw data---Contains the information of sales from January to June 2023
-Project Presentation--File contain PowerBI data visualisation
-Project description--Contains detailes of the objective of the exercise and what has to be executed
-Processed data from Snowflakes--This file contains output from Snowflakes
+* Raw data---Contains the information of sales from January to June 2023
+* Project Presentation--File contain PowerBI data visualisation
+* Project description--Contains detailes of the objective of the exercise and what has to be executed
+* Processed data from Snowflakes--This file contains output from Snowflakes
 
 # Tools and Technologies
 * Snowflakes
